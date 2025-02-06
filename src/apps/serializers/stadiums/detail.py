@@ -1,4 +1,5 @@
 from src.apps.serializers.stadiums.small_models import *
+from datetime import datetime
 
 
 class DetailStadionSerializer(serializers.ModelSerializer):
@@ -16,5 +17,8 @@ class DetailStadionSerializer(serializers.ModelSerializer):
 
     def to_representation(self, instance):
         data = super().to_representation(instance)
+        today = datetime.today()
+        data["booking_times"] = BookingTimes(instance.bookings.all().filter(
+            booking_start_date__gte=today), many=True).data
         data["created_at"] = instance.created_at.strftime("%Y-%m-%d %H:%M")
         return data

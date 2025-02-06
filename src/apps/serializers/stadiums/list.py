@@ -2,18 +2,6 @@ from src.apps.serializers.stadiums.small_models import *
 from datetime import datetime
 
 
-class BookingTimes(serializers.ModelSerializer):
-    class Meta:
-        model = models.Booking
-        fields = ("booking_start_date", "booking_end_date")
-
-    def to_representation(self, instance):
-        data = super().to_representation(instance)
-        data["booking_start_date"] = instance.booking_start_date.strftime("%Y-%m-%d %H:%M")
-        data["booking_end_date"] = instance.booking_end_date.strftime("%Y-%m-%d %H:%M")
-        return data
-
-
 class ListStadionSerializer(serializers.ModelSerializer):
     contacts = StadionContactSerializer(many=True)
     images = StadionImageSerializer(many=True)
