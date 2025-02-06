@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Andijon viloyati",
+        "name_ru": "Андижанская область"
+    },
+    {
+        "id": 2,
+        "name": "Buxoro viloyati",
+        "name_ru": "Бухарская область"
+    },
+    {
+        "id": 3,
+        "name": "Farg`ona viloyati",
+        "name_ru": "Ферганская область"
+    },
+    {
+        "id": 4,
+        "name": "Jizzax viloyati",
+        "name_ru": "Джизакская область"
+    },
+    {
+        "id": 5,
+        "name": "Xorazm viloyati",
+        "name_ru": "Хорезмская область"
+    },
+    {
+        "id": 6,
+        "name": "Namangan viloyati",
+        "name_ru": "Наманганская область"
+    },
+    {
+        "id": 7,
+        "name": "Navoiy viloyati",
+        "name_ru": "Навоийская область"
+    },
+    {
+        "id": 8,
+        "name": "Qashqadaryo viloyati",
+        "name_ru": "Кашкадарьинская область"
+    },
+    {
+        "id": 9,
+        "name": "Qoraqalpogʻiston Respublikasi",
+        "name_ru": "Республика Каракалпакстан"
+    },
+    {
+        "id": 10,
+        "name": "Samarqand viloyati",
+        "name_ru": "Самаркандская область"
+    },
+    {
+        "id": 11,
+        "name": "Sirdaryo viloyati",
+        "name_ru": "Сырдарьинская область"
+    },
+    {
+        "id": 12,
+        "name": "Surxondaryo viloyati",
+        "name_ru": "Сурхандарьинская область"
+    },
+    {
+        "id": 13,
+        "name": "Toshkent viloyati",
+        "name_ru": "Ташкентская область"
+    },
+    {
+        "id": 14,
+        "name": "Toshkent shahri",
+        "name_ru": "Город Ташкент"
+    }
+]
