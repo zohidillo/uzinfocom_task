@@ -778,5 +778,341 @@
         "region_id": 10,
         "name": "Urgut tumani",
         "name_ru": "Ургут район"
+    },
+    {
+        "id": 131,
+        "region_id": 11,
+        "name": "Boyovut tumani",
+        "name_ru": "Бойовут район"
+    },
+    {
+        "id": 132,
+        "region_id": 11,
+        "name": "Guliston tumani",
+        "name_ru": "Гулистон район"
+    },
+    {
+        "id": 133,
+        "region_id": 11,
+        "name": "Mirzaobod tumani",
+        "name_ru": "Мирзаобод район"
+    },
+    {
+        "id": 134,
+        "region_id": 11,
+        "name": "Oqoltin tumani",
+        "name_ru": "Оқолтин район"
+    },
+    {
+        "id": 135,
+        "region_id": 11,
+        "name": "Sardoba tumani",
+        "name_ru": "Сардоба район"
+    },
+    {
+        "id": 136,
+        "region_id": 11,
+        "name": "Sayxunobod tumani",
+        "name_ru": "Сайхунабод район"
+    },
+    {
+        "id": 137,
+        "region_id": 11,
+        "name": "Sirdaryo tumani",
+        "name_ru": "Сырдарё район"
+    },
+    {
+        "id": 138,
+        "region_id": 11,
+        "name": "Xovos tumani",
+        "name_ru": "Ховос район"
+    },
+    {
+        "id": 139,
+        "region_id": 12,
+        "name": "Angor tumani",
+        "name_ru": "Ангор район"
+    },
+    {
+        "id": 140,
+        "region_id": 12,
+        "name": "Bandixon tumani",
+        "name_ru": "Бандихон район"
+    },
+    {
+        "id": 141,
+        "region_id": 12,
+        "name": "Boysun tumani",
+        "name_ru": "Бойсун район"
+    },
+    {
+        "id": 142,
+        "region_id": 12,
+        "name": "Denov tumani",
+        "name_ru": "Денов район"
+    },
+    {
+        "id": 143,
+        "region_id": 12,
+        "name": "Jarqoʻrgʻon tumani",
+        "name_ru": "Жарқорған район"
+    },
+    {
+        "id": 144,
+        "region_id": 12,
+        "name": "Qiziriq tumani",
+        "name_ru": "Қизириқ район"
+    },
+    {
+        "id": 145,
+        "region_id": 12,
+        "name": "Qumqoʻrgʻon tumani",
+        "name_ru": "Қумқўрғон район"
+    },
+    {
+        "id": 146,
+        "region_id": 12,
+        "name": "Muzrabod tumani",
+        "name_ru": "Музрабад район"
+    },
+    {
+        "id": 147,
+        "region_id": 12,
+        "name": "Oltinsoy tumani",
+        "name_ru": "Олтинсой район"
+    },
+    {
+        "id": 148,
+        "region_id": 12,
+        "name": "Sariosiyo tumani",
+        "name_ru": "Сариосиё район"
+    },
+    {
+        "id": 149,
+        "region_id": 12,
+        "name": "Sherobod tumani",
+        "name_ru": "Шеробод район"
+    },
+    {
+        "id": 150,
+        "region_id": 12,
+        "name": "Shoʻrchi tumani",
+        "name_ru": "Шўрчи район"
+    },
+    {
+        "id": 151,
+        "region_id": 12,
+        "name": "Termiz tumani",
+        "name_ru": "Термиз район"
+    },
+    {
+        "id": 152,
+        "region_id": 12,
+        "name": "Uzun tumani",
+        "name_ru": "Узун район"
+    },
+    {
+        "id": 153,
+        "region_id": 13,
+        "name": "Angren shahri",
+        "name_ru": "Андижан город"
+    },
+    {
+        "id": 154,
+        "region_id": 13,
+        "name": "Bekobod shahri",
+        "name_ru": "Бекобод город"
+    },
+    {
+        "id": 155,
+        "region_id": 13,
+        "name": "Olmaliq shahri",
+        "name_ru": "Олмалиқ город"
+    },
+    {
+        "id": 156,
+        "region_id": 13,
+        "name": "Ohangaron shahri",
+        "name_ru": "Оҳангарон город"
+    },
+    {
+        "id": 157,
+        "region_id": 13,
+        "name": "Nurafshon shahri",
+        "name_ru": "Нурафшон город"
+    },
+    {
+        "id": 158,
+        "region_id": 13,
+        "name": "Chirchiq shahri",
+        "name_ru": "Чирчиқ город"
+    },
+    {
+        "id": 159,
+        "region_id": 13,
+        "name": "Yangiyo‘l shahri",
+        "name_ru": "Янгийўл город"
+    },
+    {
+        "id": 160,
+        "region_id": 13,
+        "name": "Bekobod tumani",
+        "name_ru": "Бекобод район"
+    },
+    {
+        "id": 161,
+        "region_id": 13,
+        "name": "Bo‘ka tumani",
+        "name_ru": "Бўка район"
+    },
+    {
+        "id": 162,
+        "region_id": 13,
+        "name": "Bo‘stonliq tumani",
+        "name_ru": "Бўстонлиқ район"
+    },
+    {
+        "id": 163,
+        "region_id": 13,
+        "name": "Qibray tumani",
+        "name_ru": "Қибрай район"
+    },
+    {
+        "id": 164,
+        "region_id": 13,
+        "name": "Quyi Chirchiq tumani",
+        "name_ru": "Қуйи Чирчиқ район"
+    },
+    {
+        "id": 165,
+        "region_id": 13,
+        "name": "Oqqo‘rg‘on tumani",
+        "name_ru": "Оққўрғон район"
+    },
+    {
+        "id": 166,
+        "region_id": 13,
+        "name": "Ohangaron tumani",
+        "name_ru": "Оҳангарон район"
+    },
+    {
+        "id": 167,
+        "region_id": 13,
+        "name": "Parkent tumani",
+        "name_ru": "Паркент район"
+    },
+    {
+        "id": 168,
+        "region_id": 13,
+        "name": "Piskent tumani",
+        "name_ru": "Пискент район"
+    },
+    {
+        "id": 169,
+        "region_id": 13,
+        "name": "Toshkent tumani",
+        "name_ru": "Тошкент район"
+    },
+    {
+        "id": 170,
+        "region_id": 13,
+        "name": "Zangiota tumani",
+        "name_ru": "Зангиота район"
+    },
+    {
+        "id": 171,
+        "region_id": 13,
+        "name": "O‘rta Chirchiq tumani",
+        "name_ru": "Ўрта Чирчиқ район"
+    },
+    {
+        "id": 172,
+        "region_id": 13,
+        "name": "Chinoz tumani",
+        "name_ru": "Чиноз район"
+    },
+    {
+        "id": 173,
+        "region_id": 13,
+        "name": "Yuqori Chirchiq tumani",
+        "name_ru": "Юқори Чирчиқ район"
+    },
+    {
+        "id": 174,
+        "region_id": 13,
+        "name": "Yangiyo‘l tumani",
+        "name_ru": "Янгийўл район"
+    },
+    {
+        "id": 175,
+        "region_id": 14,
+        "name": "Bektemir tumani",
+        "name_ru": "Бектемир район"
+    },
+    {
+        "id": 176,
+        "region_id": 14,
+        "name": "Chilonzor tumani",
+        "name_ru": "Чиланзар район"
+    },
+    {
+        "id": 177,
+        "region_id": 14,
+        "name": "Yashnobod tumani",
+        "name_ru": "Яшнобод район"
+    },
+    {
+        "id": 178,
+        "region_id": 14,
+        "name": "Mirobod tumani",
+        "name_ru": "Миробод район"
+    },
+    {
+        "id": 179,
+        "region_id": 14,
+        "name": "Mirzo Ulugʻbek tumani",
+        "name_ru": "Мирзо Улугбек район"
+    },
+    {
+        "id": 180,
+        "region_id": 14,
+        "name": "Olmazor tumani",
+        "name_ru": "Олмазор район"
+    },
+    {
+        "id": 181,
+        "region_id": 14,
+        "name": "Sergeli tumani",
+        "name_ru": "Сергели район"
+    },
+    {
+        "id": 182,
+        "region_id": 14,
+        "name": "Shayxontohur tumani",
+        "name_ru": "Шайхонтохур район"
+    },
+    {
+        "id": 183,
+        "region_id": 14,
+        "name": "Uchtepa tumani",
+        "name_ru": "Учтепа район"
+    },
+    {
+        "id": 184,
+        "region_id": 14,
+        "name": "Yakkasaroy tumani",
+        "name_ru": "Яксарой район"
+    },
+    {
+        "id": 185,
+        "region_id": 14,
+        "name": "Yunusobod tumani",
+        "name_ru": "Юнусобод район"
+    },
+    {
+        "id": 186,
+        "region_id": 14,
+        "name": "Yangihayot tumani",
+        "name_ru": "Янгиҳает район"
     }
 ]
