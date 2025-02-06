@@ -1,3 +1,5 @@
 venv
 media
 .idea
+__pycache__/*
+*.pyc

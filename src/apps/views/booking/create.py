@@ -15,4 +15,3 @@ class CreateBookingApiView(CreateAPIView, GenericViewSet):
         data = super().get_serializer_context()
         data["request"] = self.request
         return data
-

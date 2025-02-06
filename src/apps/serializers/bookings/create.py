@@ -18,6 +18,8 @@ class CreateBookingSerializer(serializers.ModelSerializer):
 
     def create(self, validated_data):
         request = self.context.get("request")
-        return models.Booking.objects.create(
+        booking = models.Booking.objects
+
+        return booking.create(
             created_by=request.user, stadion=validated_data.pop("stadion"), **validated_data
         )
